@@ -1,0 +1,14 @@
+# Model checkpoints
+models/
+**/*.ckpt
+
+# Data (LMDB files are large)
+parseqIndicData/data/
+
+# Python cache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# Hydra outputs
+outputs/
