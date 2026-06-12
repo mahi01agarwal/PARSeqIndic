@@ -1,5 +1,5 @@
 # Model checkpoints
-models/
+/models/
 **/*.ckpt
 
 # Data (LMDB files are large)
